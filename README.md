@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📡 Channel Pro — MERN Stack News Platform
 
 Clean, modern, fully-featured news platform.  
@@ -118,3 +119,7 @@ After running seed:
 - 📱 Fully responsive dark UI
 - 👤 Profile page (edit bio & email)
 - 🌱 12 real sample articles via seed script
+=======
+# Blog_web
+A simple web application that allows users to create and delete posts. Built using Node.js, Express, and MongoDB, this project demonstrates basic CRUD (Create, Read, Update, Delete) operations
+>>>>>>> c39d9c762ef34b8d56a27aa9391285ea4c58dd6b
